@@ -1,0 +1,5 @@
+https://www.c-sharpcorner.com/article/a-simple-classification-techniques-on-fruit-dataset/
+https://medium.com/swlh/fruit-classification-with-k-nearest-neighbors-191cf0497036
+https://ieeexplore.ieee.org/document/9065747
+https://ieeexplore.ieee.org/document/9690537
+https://ieeexplore.ieee.org/document/7915033
